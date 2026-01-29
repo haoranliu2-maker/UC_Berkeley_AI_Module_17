@@ -25,4 +25,7 @@ Strategic Business Recommendations
 
 Model Selection Recommendation
 - Primary Choice: logistic regression; second choice: decision trees
+
 - Despite potentially lower raw accuracy than complex ensembles, Logistic Regression offers interpretability (we can see exactly which coefficients drive the decision) and speed. In a marketing context, explaining why a customer was flagged as a lead is often as important as the prediction itself.
+
+Link to Jupyter Notebook: https://github.com/haoranliu2-maker/UC_Berkeley_AI_Module_17/blob/main/prompt_III.ipynb
